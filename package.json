@@ -1,0 +1,21 @@
+{
+  "name": "excel-data-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deasync": "^0.1.21",
+    "fs": "0.0.1-security",
+    "memory-cache": "^0.2.0",
+    "path": "^0.12.7",
+    "set-value": "^3.0.2",
+    "underscore": "^1.12.0",
+    "underscore.string": "^3.3.5",
+    "xlsx": "^0.16.9"
+  }
+}
