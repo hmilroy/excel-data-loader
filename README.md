@@ -1,4 +1,5 @@
-# excel-data-loader
+# Excel Data Loader
+
 NodeJS based CLI app for build data json file using Excel data source
 
 Please execute following command to install this repository as a NPM library in your project.
@@ -15,4 +16,4 @@ Then you need to add following npm script for your project's package json file
 ...
 ```
 
-Please `./data/data.json` path from your json file path and `./data` path from your excel file's(Input data source) folder
+Please replace `./data/data.json` path from your output json file path and `./data` path from your excel file's(Input data source) folder path.
